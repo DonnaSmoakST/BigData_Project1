@@ -48,6 +48,7 @@ The DataFrame API outperformed the RDD API by a significant margin (total pipeli
 Authors
 
 Theodora Stamoglou
+
 Georgiana Petridou
 
 Coursework project for the Big Data module, Applied Informatics, University of Macedonia.
